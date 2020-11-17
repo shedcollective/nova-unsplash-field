@@ -1,9 +1,11 @@
 {
-    "name": "shed/nova-unsplash",
+    "name": "shedcollective/nova-unsplash-field",
     "description": "A Laravel Nova Unsplash field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "field",
+        "unsplash"
     ],
     "license": "MIT",
     "require": {
