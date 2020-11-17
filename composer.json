@@ -1,6 +1,6 @@
 {
-    "name": "shed/unsplash",
-    "description": "A Laravel Nova field.",
+    "name": "shed/nova-unsplash",
+    "description": "A Laravel Nova Unsplash field.",
     "keywords": [
         "laravel",
         "nova"
